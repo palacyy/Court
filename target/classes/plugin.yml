@@ -1,0 +1,12 @@
+name: Court
+main: me.josh.court.Court
+version: 0.1
+author: Josh
+commands:
+  court:
+  setjudge:
+  courtcase:
+  cases:
+  jurynotifications:
+  jury:
+  bring:
